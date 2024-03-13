@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gtompel/git_test2#readme",
   "dependencies": {
+    "eslint": "^8.57.0",
     "javascript": "^1.0.0",
     "js": "^0.1.0",
     "node": "^21.7.1",
